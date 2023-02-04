@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  background-color: antiquewhite;
+}
+
+.title{
+  color: blue;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.cardes{
+ display: grid;
+ grid-template-columns:repeat(4, auto);
+ justify-items: center;
+ margin-top: 2rem;
+}
+
+.line{
+  margin-bottom: 1rem;
+}
